@@ -1,0 +1,13 @@
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IAuthenticationController.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\ICore.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IDataProvider.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IIOController.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IPlugin.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IPluginController.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IPricePlugin.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IReportPlugin.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IUIController.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\interfaces\IVehiclePlugin.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\model\Customer.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\model\Rental.java
+C:\Users\João\Desktop\Locadora_Veiculos_Full-main\interfaces\src\main\java\br\edu\ifba\inf008\model\Vehicle.java
